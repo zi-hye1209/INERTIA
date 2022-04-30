@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import SampleImage from '../public/images/sample_image.png'
-import NavImage from '../public/images/nav.png'
+import NavImage from '../public/images/Nav.png'
 import NavMobileImage from '../public/images/nav_mobile.png'
 
 export default function Home() {
